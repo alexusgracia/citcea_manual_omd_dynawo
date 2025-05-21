@@ -6,9 +6,10 @@ The manual is structured as follows:
 - **Introduction**: Overview of the OMD-Dynawo interface and its purpose.
 - **Installation**: Instructions on how to install the OMD-Dynawo interface.
 - **Usage**: Detailed guide on how to use the OMD-Dynawo interface, including examples and best practices.
-- **Troubleshooting**: Common issues and their solutions.
+- **Step by step guide**: A comprehensive step-by-step guide to using the OMD-Dynawo interface.
+- **Examples and models**: A collection of examples demonstrating the use of the OMD-Dynawo interface in various scenarios.
+- **Troubleshooting**: Common issues and their solutions. Lo más tipico
 - **Contributing**: Guidelines for contributing to the OMD-Dynawo interface.
-- **License**: Information about the license under which the OMD-Dynawo interface is distributed.
 - **Contact**: Information on how to contact the maintainers of the OMD-Dynawo interface.
 - **References**: List of references and resources related to the OMD-Dynawo interface.
 - **Appendix**: Additional information, such as FAQs, glossary, and acknowledgments.
