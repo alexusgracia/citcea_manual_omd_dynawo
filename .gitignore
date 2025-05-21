@@ -1,0 +1,33 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs y bases de datos
+*.log
+*.sqlite3
+
+# Configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Sphinx (build)
+docs/build/
+
+# Archivos de salida HTML si están fuera de build (por error)
+_build/
+*.html
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Archivos de Docker opcionales
+*.tar
+*.img
+*.bak
