@@ -18,3 +18,4 @@ documentation for details.
    introduction
    usage
    annex
+   new_document
