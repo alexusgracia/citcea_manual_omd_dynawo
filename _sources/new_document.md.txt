@@ -1,4 +1,4 @@
-# Hello this is a new document
+## Hello this is a new document
 
 ## This is the syntaxis
 
@@ -70,7 +70,7 @@ int main(){
 }
 ```
 
-# Markdown Cheat Sheet
+## Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
@@ -82,7 +82,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Heading
 
-# H1
+## H1
 
 ## H2
 
